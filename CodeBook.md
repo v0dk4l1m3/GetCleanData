@@ -31,9 +31,9 @@ The second column is the "Activity_ID" identified as the following activities:
 
 The rest of the columns are variables consisting of different mean and standard deviation measurements
 
-tBodyAcc-mean()-X 
-tBodyAcc-mean()-Y 
-tBodyAcc-mean()-Z 
+tBodyAcc-mean()-X   
+tBodyAcc-mean()-Y   
+tBodyAcc-mean()-Z   
 tBodyAcc-std()-X  
 tBodyAcc-std()-Y  
 tBodyAcc-std()-Z  
