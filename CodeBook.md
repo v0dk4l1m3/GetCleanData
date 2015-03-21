@@ -11,9 +11,9 @@ To run the script, first download and extract the zip file into a local folder ~
 
 Fork the code into the same folder, then do the following on R-Studio:
 
-setwd("~/R/UCIHAR")
-source("run_analysis.R")
-run_analysis()
+setwd("~/R/UCIHAR") 
+source("run_analysis.R")  
+run_analysis()  
 finaldata <- read.delim("finaldata.txt", header=TRUE)
 
 The script will process the data into a tab-delimited text file, which can then be read back into R using read.delim function
