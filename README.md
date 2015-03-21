@@ -13,5 +13,4 @@ source("run_analysis.R")
 run_analysis()   
 finaldata <- read.delim("finaldata.txt", header=TRUE)
 
-The script will process the data into a tab-delimited text file, which can then be read back into R using read.delim function
-Read the code book for more details about the raw and tidy data set
+The script will process the data into a tab-delimited text file, which can then be read back into R using read.delim function. Read the code book for more details about the raw and tidy data set.
